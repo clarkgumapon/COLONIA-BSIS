@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BizGuide
 
 ## Business Recommendation System
@@ -157,3 +158,6 @@ BizGuide is committed to supporting entrepreneurs at every stage of their busine
 ---
 
 BizGuide - Your guide to business success with personalized recommendations 
+=======
+# COLONIA-BSIS
+>>>>>>> d4b10a7a82d5d02910ac7fc21a9cc6d7b572fdd1
